@@ -1,4 +1,4 @@
 - [Hello World](#Hello_World)
 
 ## About Me
-I am currently a junior at the University of Iowa where I am majoring in economics. I enjoy coding and reading in my free time. I am originally from Illinois.
+I am currently a junior at the University of Iowa where I am majoring in economics. I enjoy reading and running in my free time. I am originally from Illinois.
